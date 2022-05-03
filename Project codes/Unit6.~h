@@ -1,0 +1,67 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit6H
+#define Unit6H
+//---------------------------------------------------------------------------
+#include <Classes.hpp>
+#include <Controls.hpp>
+#include <StdCtrls.hpp>
+#include <Forms.hpp>
+#include "acPNG.hpp"
+#include "sButton.hpp"
+#include "sCheckBox.hpp"
+#include "sEdit.hpp"
+#include "sLabel.hpp"
+#include "sPanel.hpp"
+#include "sRadioButton.hpp"
+#include <ExtCtrls.hpp>
+#include "sListBox.hpp"
+//---------------------------------------------------------------------------
+class Tsozlama : public TForm
+{
+__published:	// IDE-managed Components
+        TsPanel *Panel_Miqdorlar;
+        TsLabel *sLabel8;
+        TImage *Image6;
+        TsLabel *sLabel10;
+        TImage *Image7;
+        TsLabel *sLabel11;
+        TImage *Image8;
+        TsPanel *P_Miqdorlar_A;
+        TsLabel *sLabel12;
+        TsLabel *sLabel13;
+        TsEdit *Edit_Miqdorlar_A_X;
+        TsEdit *Edit_Miqdorlar_A_P;
+        TsButton *Natija_Miqdorlar_A;
+        TsEdit *Natija_Miqdorlar_A_edit;
+        TsPanel *P_Miqdorlar_B;
+        TsLabel *sLabel14;
+        TsLabel *sLabel15;
+        TsEdit *Natija_Miqdorlar_B_edit;
+        TsEdit *Edit_Miqdorlar_B_X;
+        TsButton *Natija_Miqdorlar_B;
+        TsEdit *Edit_Miqdorlar_B_P;
+        TsPanel *P_Miqdorlar_C;
+        TsLabel *sLabel16;
+        TsLabel *sLabel17;
+        TsEdit *Natija_Miqdorlar_C_edit;
+        TsEdit *Edit_Miqdorlar_C_P;
+        TsEdit *Edit_Miqdorlar_C_X;
+        TsButton *Natija_Miqdorlar_C;
+        TsCheckBox *ChB_Miqdorlar_A;
+        TsCheckBox *ChB_Miqdorlar_B;
+        TsCheckBox *ChB_Miqdorlar_C;
+        TsButton *qoshish_A;
+        TsListBox *Listbox_A;
+        TsButton *qoshish_B;
+        TsListBox *Listbox_B;
+        TsListBox *Listbox_C;
+        TsButton *qoshish_C;
+private:	// User declarations
+public:		// User declarations
+        __fastcall Tsozlama(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE Tsozlama *sozlama;
+//---------------------------------------------------------------------------
+#endif
