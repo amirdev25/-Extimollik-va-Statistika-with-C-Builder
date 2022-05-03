@@ -7,7 +7,8 @@ Toshkent Axborot texnologiyalri universitetida darslik sifatida o'tiladigan "Ext
 ![photo_2022-05-03_14-47-58](https://user-images.githubusercontent.com/99003321/166435902-2790ecd8-2f5c-4788-8372-107064d7e5f4.jpg)
 
 
-#Guvohnoma()DGU
+# Guvohnoma()DGU
 ![image](https://user-images.githubusercontent.com/99003321/166446161-c12e781e-4d4d-4354-8d0e-e77422f58b71.png)
-📖[DGU.pdf](https://github.com/amirdev25/-Extimollik-va-Statistika-with-C-Builder/files/8610166/DGU.pdf)
+ 
+ 📖[DGU.pdf](https://github.com/amirdev25/-Extimollik-va-Statistika-with-C-Builder/files/8610166/DGU.pdf)
 
